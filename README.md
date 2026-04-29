@@ -1,6 +1,6 @@
 # All Restaurants in Hawaii, US
 
-> Free BeamStation sample export with 298 rows and masked direct-contact fields.
+> Free BeamStation sample export with 441 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `658555` |
 | Location | Hawaii |
 | Category | Restaurants |
-| Full dataset size | 2,988 records |
-| Free sample size | 298 records (9.97%) |
-| Last export | 2026-04-21T20:18:37.280004+00:00 |
+| Full dataset size | 4,418 records |
+| Free sample size | 441 records (9.98%) |
+| Last export | 2026-04-28T22:15:29.784325+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-hawaii-us-sample-658555/releases/download/sample-latest/beamstation_658555_restaurants-us-hi_SAMPLE_DIST.csv) |
 
 ## What is in this sample
