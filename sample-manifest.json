@@ -1,12 +1,12 @@
 {
-  "export_job_id": "f60fa263-3d39-4e57-a281-4a4237ccb9bc",
+  "export_job_id": "cc453549-ca33-4de2-9f5b-93945410e92a",
   "id_short": 658555,
-  "published_at": "2026-04-22T07:49:33Z",
+  "published_at": "2026-04-29T07:53:51Z",
   "repo_name": "all-restaurants-in-hawaii-us-sample-658555",
   "sample_asset_name": "beamstation_658555_restaurants-us-hi_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/658555/beamstation_658555_restaurants-us-hi_SAMPLE_DIST.csv",
-  "sample_records": 298,
-  "sample_sha256": "1ba0f17b7028833fcde3d500f90ef4e8bbede40b45f60f4538fbd0da9f207d14",
-  "sample_size_bytes": 1003263,
-  "total_records": 2988
+  "sample_records": 441,
+  "sample_sha256": "fdc2ffa5084c7a94732581e37291765093964c7a52b51d354cfe5b24cf6bb5b0",
+  "sample_size_bytes": 1435817,
+  "total_records": 4418
 }
